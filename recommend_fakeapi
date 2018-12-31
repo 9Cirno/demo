@@ -51,7 +51,7 @@
 "album_pic_mid": ""
 },
 {
-"songListDesc: "纳尼？这些华语歌手竟然会唱日语歌！{
+"songListDesc": "纳尼？这些华语歌手竟然会唱日语歌!",
 "code": 0,
 "data": {
 "slider": [
@@ -144,7 +144,7 @@
 "picUrl": "http://y.gtimg.cn/music/photo_new/T005R600x600M000002CJKAY1LKpcz.jpg?n=1",
 "id": "3482605622",
 "accessnum": 357644,
-"songListAuthor: "哑忍",
+"songListAuthor": "哑忍",
 "pic_mid": "",
 "album_pic_mid": "004aOQhn3PPOpK"
 }
@@ -152,8 +152,8 @@
 }
 }
 ,
-"picUrl: "http://p.qpic.cn/music_cover/z8wAFqicQ1qhImeiajkrgiaR4hYM3pzsUULFnicXshFXdw9uGkm261Ex9g/300?n=1",
-"id: "1144416825",
+{"picUrl": "http://p.qpic.cn/music_cover/z8wAFqicQ1qhImeiajkrgiaR4hYM3pzsUULFnicXshFXdw9uGkm261Ex9g/300?n=1",
+"id": "1144416825",
 "accessnum": 673315,
 "songListAuthor": "风吹草地",
 "pic_mid": "0013j8zs1jRnLQ",
@@ -191,7 +191,7 @@
 "picUrl": "http://y.gtimg.cn/music/photo_new/T005R600x600M000002CJKAY1LKpcz.jpg?n=1",
 "id": "3482605622",
 "accessnum": 357644,
-"songListAuthor: "哑忍",
+"songListAuthor": "哑忍",
 "pic_mid": "",
 "album_pic_mid": "004aOQhn3PPOpK"
 }
